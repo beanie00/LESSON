@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.DS_Store
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+
+# Visual Studio 2015/2017 cache/options directory
+.vscode/
+
+.env
+
+wandb/
