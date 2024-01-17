@@ -37,9 +37,12 @@ We referred to https://github.com/schalappe/Deep-Double-Q-Learning-for-Minigrid 
 If you find our code helpful for your research, please consider citing the paper!
 
 ```
-@article{kim2023lesson,
+@inproceedings{kim2023lesson,
   title={LESSON: Learning to Integrate Exploration Strategies for Reinforcement Learning via an Option Framework},
   author={Kim, Woojun and Kim, Jeonghye and Sung, Youngchul},
-  year={2023}
+  booktitle={International Conference on Machine Learning},
+  pages={16619--16638},
+  year={2023},
+  organization={PMLR}
 }
 ```
