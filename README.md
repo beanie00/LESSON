@@ -3,7 +3,7 @@
 This is the code for the paper LESSON accepted at ICML'2023. The paper can be found at [[paper]](https://openreview.net/pdf?id=vXcvrYJlVm).
 
 LESSON Architecture:
-![LESSON method](./lesson_method.png)
+![LESSON method](./lesson_method_new.png)
 ## Installation
 ```
 git clone https://github.com/beanie00/LESSON.git
